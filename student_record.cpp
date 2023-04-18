@@ -279,4 +279,3 @@ void delete_student(int n)
     cin.ignore();
     cin.get();
 }
-adksfjakjflajd
